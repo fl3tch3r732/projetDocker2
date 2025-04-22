@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+env/
+venv/
+*.env
+
+# macOS
+.DS_Store
+
+# IDEs & editors
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Bytecode and compiled files
+*.log
+
+# Static and media (optional if collected outside)
+staticfiles/
+media/
